@@ -88,6 +88,10 @@
         display: flex;
         justify-content: space-between;
     }
+
+    .items-nav-responsive a {
+        color: var(--black);
+    }
     
     .items-nav-responsive i {
         font-size: 1.5rem;
